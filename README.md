@@ -8,3 +8,5 @@
 * Added CSS comments
 * Created REPO with unique name
 * Published on Github pages
+## Link to website
+https://tanatswas.github.io/Week-One-Challenge/
